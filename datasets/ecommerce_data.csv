@@ -1,0 +1,16 @@
+order_id,order_date,customer_name,product_name,category,revenue,ad_spend,cogs,profit
+1,2025-08-01,John Smith,Wireless Mouse,Electronics,50,10,20,20
+2,2025-08-01,Jane Doe,Running Shoes,Sports,120,20,60,40
+3,2025-08-02,Bob Lee,Water Bottle,Sports,25,5,10,10
+4,2025-08-02,Alice Kim,Laptop Stand,Electronics,75,15,30,30
+5,2025-08-03,Tom Brown,Yoga Mat,Sports,40,8,15,17
+6,2025-08-03,Sarah Green,Headphones,Electronics,100,25,50,25
+7,2025-08-04,David White,Smartwatch,Electronics,200,40,120,40
+8,2025-08-04,Linda Black,Sports Jacket,Sports,150,30,80,40
+9,2025-08-05,Mark Gray,Desk Lamp,Electronics,60,12,25,23
+10,2025-08-05,Karen Blue,Sneakers,Sports,90,18,50,22
+11,2025-08-06,James Orange,Coffee Mug,Home,15,3,5,7
+12,2025-08-06,Nancy Yellow,Blender,Home,80,16,40,24
+13,2025-08-07,Paul Purple,Tablet,Electronics,250,50,150,50
+14,2025-08-07,Susan Pink,Treadmill,Sports,800,200,500,100
+15,2025-08-08,George Cyan,Bookshelf,Home,120,20,70,30
